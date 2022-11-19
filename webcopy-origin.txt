@@ -1,0 +1,280 @@
+Uri: https://cdn.discordapp.com/attachments/1038789206698364930/1043150517800542248/GamesOfDamned.exe
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\attachments\1038789206698364930\1043150517800542248\GamesOfDamned.exe
+Content Type: application/x-msdos-program
+
+Uri: https://cdn.glitch.me/d7f4f279-e13b-4330-8422-00b2d9211424%2FGlitch-Error-Rainbow-Mug-hires.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\d7f4f279-e13b-4330-8422-00b2d9211424Glitch-Error-Rainbow-Mug-hires-1.png
+Content Type: image/png
+
+Uri: https://cloud.typenetwork.com/projects/5027/fontface.css/
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\projects\5027\fontface.css\index-1.htm
+Content Type: text/css
+
+Uri: https://gamesofdamned.com/
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\index-1.htm
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/backblue.gif
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\backblue-1.gif
+Content Type: image/gif
+
+Uri: https://gamesofdamned.com/cdn-cgi/l/email-protection.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\cdn-cgi\l\email-protection-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min-1.js
+Content Type: application/javascript
+
+Uri: https://gamesofdamned.com/en-us.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\en-us-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/external.html?link=https://damnedgames.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\external-9.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/external.html?link=https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\external-11.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/external.html?link=https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\external-12.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/external.html?link=https://www.cloudflare.com/5xx-error-landing
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\external-13.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/external.html?link=https://www.cloudflare.com/sign-up?utm_source=email_protection
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\external-10.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/external.html?link=https://www.googletagmanager.com/gtag/js?id=UA-176564639-1
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\external-7.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/external.html?link=https://www.youtube.com/embed/HBV1JDnXG20?autoplay=0&rel=0
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\external-8.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/fade.gif
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\fade-1.gif
+Content Type: image/gif
+
+Uri: https://gamesofdamned.com/modules/system/assets/css/framework.extras.css
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\modules\system\assets\css\framework.extras-1.css
+Content Type: text/css
+
+Uri: https://gamesofdamned.com/modules/system/assets/js/framework.extras.js
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\modules\system\assets\js\framework.extras-1.js
+Content Type: application/javascript
+
+Uri: https://gamesofdamned.com/modules/system/assets/js/framework.js
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\modules\system\assets\js\framework-1.js
+Content Type: application/javascript
+
+Uri: https://gamesofdamned.com/pt-br.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\pt-br-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/storage/app/media/site_gif_01.gif
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\media\site_gif_01-1.gif
+Content Type: image/gif
+
+Uri: https://gamesofdamned.com/storage/app/media/site_gif_02.gif
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\media\site_gif_02-1.gif
+Content Type: image/gif
+
+Uri: https://gamesofdamned.com/storage/app/media/site_gif_03.gif
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\media\site_gif_03-1.gif
+Content Type: image/gif
+
+Uri: https://gamesofdamned.com/storage/app/uploads/public/5f4/04a/e6d/5f404ae6d8e1e682945750.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\uploads\public\5f4\04a\e6d\5f404ae6d8e1e682945750-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/storage/app/uploads/public/5f4/04a/e6d/5f404ae6d9548364333870.jpg
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\uploads\public\5f4\04a\e6d\5f404ae6d9548364333870-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gamesofdamned.com/storage/app/uploads/public/5f4/04a/e79/5f404ae791733987957703.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\uploads\public\5f4\04a\e79\5f404ae791733987957703-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/storage/app/uploads/public/5f4/04a/e79/5f404ae795f09940878990.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\uploads\public\5f4\04a\e79\5f404ae795f09940878990-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/storage/app/uploads/public/5f4/04a/e83/5f404ae83b3ed367891541.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\uploads\public\5f4\04a\e83\5f404ae83b3ed367891541-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/storage/app/uploads/public/5f4/04a/e84/5f404ae846baa550833270.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\uploads\public\5f4\04a\e84\5f404ae846baa550833270-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/storage/app/uploads/public/5f4/04a/e8d/5f404ae8d5ebd046030759.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\uploads\public\5f4\04a\e8d\5f404ae8d5ebd046030759-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/storage/app/uploads/public/5f4/04a/e8d/5f404ae8da386425492637.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\storage\app\uploads\public\5f4\04a\e8d\5f404ae8da386425492637-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/css/style.min5d245d245d24.css?v=1063455755
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\css\style.min5d245d245d24-1.css
+Content Type: text/css
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/icons/icons-elderand626262626262-2.html?58616394
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\icons\icons-elderand626262626262-2-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/icons/icons-elderand626262626262-3.html?58616394
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\icons\icons-elderand626262626262-3-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/icons/icons-elderand626262626262-4.html?58616394
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\icons\icons-elderand626262626262-4-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/icons/icons-elderand626262626262.html?58616394
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\icons\icons-elderand626262626262-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/icons/icons-elderand626262626262.woff2?58616394
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\icons\icons-elderand626262626262-1.woff2
+Content Type: font/woff2
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/BasicSans-Light-2.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\BasicSans-Light-2-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/BasicSans-Light-3.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\BasicSans-Light-3-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/BasicSans-Light.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\BasicSans-Light-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/BasicSans-Light.woff2
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\BasicSans-Light-1.woff2
+Content Type: font/woff2
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/BasicSans-Lightd41dd41dd41d.html?
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\BasicSans-Lightd41dd41dd41d-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-BoldIt-2.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-BoldIt-2-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-BoldIt-3.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-BoldIt-3-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-BoldIt-4.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-BoldIt-4-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-BoldIt.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-BoldIt-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-BoldItd41dd41dd41d.html?
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-BoldItd41dd41dd41d-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-Regular-2.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-Regular-2-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-Regular-3.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-Regular-3-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-Regular.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-Regular-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-Regular.woff2
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-Regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://gamesofdamned.com/themes/damned/assets/fonts/web/Calluna-Regulard41dd41dd41d.html?
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\fonts\web\Calluna-Regulard41dd41dd41d-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/bgs/cthulhu-v2.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\bgs\cthulhu-v2-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/bgs/faces.html
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\bgs\faces-1.html
+Content Type: text/html
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/bgs/m-cthulhu.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\bgs\m-cthulhu-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/bgs/m-faces.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\bgs\m-faces.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/damned.svg
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\damned-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/favicon851085108510.ico?v=0.2
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\favicon851085108510-1.ico
+Content Type: image/x-icon
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/orns/m-orn-fixed-bar.svg
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\orns\m-orn-fixed-bar-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/orns/orn-fixed-bar.svg
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\orns\orn-fixed-bar-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/orns/orn-section.svg
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\orns\orn-section-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/parallax-banner/bg-deep-blue.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\parallax-banner\bg-deep-blue-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/parallax-banner/fog-01.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\parallax-banner\fog-01-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/parallax-banner/fog-02.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\parallax-banner\fog-02-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/parallax-banner/fog-03.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\parallax-banner\fog-03-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/parallax-banner/parallax-01.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\parallax-banner\parallax-01-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/parallax-banner/parallax-02.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\parallax-banner\parallax-02-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/parallax-banner/parallax-03.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\parallax-banner\parallax-03-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/images/parallax-banner/parallax-04.png
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\images\parallax-banner\parallax-04-1.png
+Content Type: image/png
+
+Uri: https://gamesofdamned.com/themes/damned/assets/js/main.min.js
+File Name: C:\Downloaded Web Sites\gamesofdamned.com\themes\damned\assets\js\main.min-1.js
+Content Type: application/javascript
+
